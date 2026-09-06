@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 zero-tsdb.py
+python3 zero-tsdb.py "$@"
